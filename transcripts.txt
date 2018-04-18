@@ -1,0 +1,46 @@
+Transcripts for Project 3
+
+Validation_Run:  val_1.txt:
+Grades: 100.0
+Total Contents = 90000
+Total Wrong Contents = 0
+Total Stats = 3
+Total Wrong Stats = 0
+Total CacheContents = NA
+Total Wrong CacheContents = NA
+
+
+Validation_Run:  val_2.txt:
+Grades: 100.0
+Total Contents = 90000
+Total Wrong Contents = 0
+Total Stats = 3
+Total Wrong Stats = 0
+Total CacheContents = NA
+Total Wrong CacheContents = NA
+
+
+Validation_Run:  val_extra_1.txt:
+Grades: 0
+Total Contents = NA
+Total Wrong Contents = NA
+Total Stats = NA
+Total Wrong Stats = NA
+Total CacheContents = NA
+Total Wrong CacheContents = NA
+
+
+Validation_Run:  val_extra_2.txt:
+Grades: 0
+Total Contents = NA
+Total Wrong Contents = NA
+Total Stats = NA
+Total Wrong Stats = NA
+Total CacheContents = NA
+Total Wrong CacheContents = NA
+
+
+Total Coding Part Full Credit is 80+10 for both ECE463 and ECE563 Students
+Normal Grades: 80.0
+Bonus Grades: 0.0
+Total Grades: 80.0
